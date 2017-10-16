@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basic CRUD System</string>
+    <string name="first_name">Firstname</string>
+    <string name="last_name">Lastname</string>
+    <string name="add_student">ADD STUDENT</string>
+    <string name="delete_student">DELETE STUDENT</string>
+    <string name="update_student">UPDATE STUDENT</string>
+    <string name="list_student">LIST STUDENT</string>
+</resources>
