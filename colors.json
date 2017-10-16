@@ -10,7 +10,7 @@
       }
     },
     {
-      "color": "white",
+      "color": "Branco",
       "category": "value",
       "code": {
         "rgba": [0,0,0,1],
@@ -18,7 +18,7 @@
       }
     },
     {
-      "color": "red",
+      "color": "Vermelho",
       "category": "hue",
       "type": "primary",
       "code": {
