@@ -6,4 +6,5 @@
     <string name="delete_student">DELETE STUDENT</string>
     <string name="update_student">UPDATE STUDENT</string>
     <string name="list_student">LIST STUDENT</string>
+    <string name="start_request">Start REQUEST</string>
 </resources>
